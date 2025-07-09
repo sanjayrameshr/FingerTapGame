@@ -2,7 +2,6 @@
 
 A simple and fun 2-player game built using **Flutter**, where two players compete by tapping their side of the screen to grow their color block. The player who fills the screen first wins!
 
----
 
 ## Game Concept
 
@@ -13,7 +12,6 @@ A simple and fun 2-player game built using **Flutter**, where two players compet
 - Each successful tap adds **5 points**.
 - The player who fills the screen first is the **winner**.
 
----
 
 ## Screens
 
@@ -26,7 +24,6 @@ A simple and fun 2-player game built using **Flutter**, where two players compet
    - Winner announcement.
    - Restart option.
 
----
 
 ## Features
 
@@ -36,28 +33,20 @@ A simple and fun 2-player game built using **Flutter**, where two players compet
 - Victory result screen
 - Tap-based interaction using `MaterialButton`
 
----
-
-## Folder Structure
-
-```bash
-lib/
-├── main.dart     # Main file with MainPage, GamePage, and ResultPage classes
----
 
 ## How to Run
 Clone the repository:
   git clone https://github.com/yourusername/tap-to-grow-game.git
   cd tap-to-grow-game
 
-Run the project:
+## Run the project:
   flutter pub get
   flutter run
 
-Developer
+## Developer
 Sanjay R
 🔗 GitHub
 🔗 LinkedIn
 
-License
+## License
   This project is open source and available under the MIT License.
