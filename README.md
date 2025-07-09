@@ -43,9 +43,9 @@ A simple and fun 2-player game built using **Flutter**, where two players compet
 ```bash
 lib/
 ├── main.dart     # Main file with MainPage, GamePage, and ResultPage classes
+---
 
-
-How to Run
+## How to Run
 Clone the repository:
   git clone https://github.com/yourusername/tap-to-grow-game.git
   cd tap-to-grow-game
