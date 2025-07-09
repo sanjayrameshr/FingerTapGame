@@ -6,8 +6,8 @@ A simple and fun 2-player game built using **Flutter**, where two players compet
 ## Game Concept
 
 - The screen is divided into two vertical halves:
-  - 🔵 **Player A (Top - Blue)**
-  - 🔴 **Player B (Bottom - Red)**
+   🔵 **Player A (Top - Blue)**
+   🔴 **Player B (Bottom - Red)**
 - Each tap increases the player's height and reduces the opponent's.
 - Each successful tap adds **5 points**.
 - The player who fills the screen first is the **winner**.
@@ -43,6 +43,7 @@ Clone the repository:
 ```bash
   flutter pub get
   flutter run
+```
 
 ## Developer
 Sanjay R
