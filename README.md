@@ -47,8 +47,8 @@ Clone the repository:
 
 ## Developer
 Sanjay R
-🔗 GitHub
-🔗 LinkedIn
+🔗 [GitHub](https://github.com/sanjayrameshr)
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjayrameshr)
 
 ## License
   This project is open source and available under the MIT License.
