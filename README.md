@@ -40,6 +40,7 @@ Clone the repository:
   cd tap-to-grow-game
 
 ## Run the project:
+```bash
   flutter pub get
   flutter run
 
